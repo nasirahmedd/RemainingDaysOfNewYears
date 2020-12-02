@@ -67,26 +67,3 @@ p{
 
 }
 
-@media screen and (max-width: 350px){
-
-    .conatainer {
-        width: 250px;
-    }
-    h1{
-        color: #fff;
-        margin-bottom: 1.5rem;
-        font-size: 18px;
-        border: 1px solid #3bff93;
-        padding: 8px;
-        border-radius: 3px;
-        text-align-last: center;
-    }
- 
-    p ,.spn {
-        color: #3bff93;
-        font-size:13px;
-        text-align: center;
-        margin-bottom: 4px;
-       
-    } 
-}
