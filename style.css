@@ -45,9 +45,7 @@ p{
 @media screen and (max-width: 800px){
 
 
-    .conatainer {
-        width: 400px;
-    }
+
     h1{
         color: #fff;
         margin-bottom: 1.5rem;
